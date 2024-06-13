@@ -12,6 +12,7 @@ This github profile is a showcase of projects that I have worked on, including d
   <li>MySQL</li>
   <li>HTML, CSS, Angular, React, Flutter, Bootstrap</li>
   <li>C++</li>
+  <li>Python</li>
 </ul>
 
 
